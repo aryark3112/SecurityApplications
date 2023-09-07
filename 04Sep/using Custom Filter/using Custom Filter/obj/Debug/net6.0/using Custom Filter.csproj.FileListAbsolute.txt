@@ -1,0 +1,31 @@
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.csproj.AssemblyReference.cache
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.AssemblyInfoInputs.cache
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.AssemblyInfo.cs
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.csproj.CoreCompileInputs.cache
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.MvcApplicationPartsAssemblyInfo.cache
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.RazorAssemblyInfo.cache
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.RazorAssemblyInfo.cs
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\appsettings.Development.json
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\appsettings.json
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\using Custom Filter.staticwebassets.runtime.json
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\using Custom Filter.exe
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\using Custom Filter.deps.json
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\using Custom Filter.runtimeconfig.json
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\using Custom Filter.dll
+D:\Phase-1\using Custom Filter\using Custom Filter\bin\Debug\net6.0\using Custom Filter.pdb
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\staticwebassets\msbuild.using Custom Filter.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\staticwebassets\msbuild.build.using Custom Filter.props
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.using Custom Filter.props
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.using Custom Filter.props
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\staticwebassets.build.json
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\staticwebassets.development.json
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\scopedcss\bundle\using Custom Filter.styles.css
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\scopedcss\projectbundle\using Custom Filter.bundle.scp.css
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.dll
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\refint\using Custom Filter.dll
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.pdb
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\using Custom Filter.genruntimeconfig.cache
+D:\Phase-1\using Custom Filter\using Custom Filter\obj\Debug\net6.0\ref\using Custom Filter.dll

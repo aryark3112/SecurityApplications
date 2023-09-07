@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms with Tracing", "WebForms with Tracing\WebForms with Tracing.csproj", "{485A3E42-1C78-45C0-A76F-973DE333075F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485A3E42-1C78-45C0-A76F-973DE333075F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485A3E42-1C78-45C0-A76F-973DE333075F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485A3E42-1C78-45C0-A76F-973DE333075F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485A3E42-1C78-45C0-A76F-973DE333075F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46CBEDA-4014-44C7-9F54-6107DE183183}
+	EndGlobalSection
+EndGlobal

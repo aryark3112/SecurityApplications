@@ -1,0 +1,2 @@
+D:\Phase-2_Assisted projects\project1\Web Form Life Cycle\Web Form Life Cycle\obj\Debug\Web Form Life Cycle.csproj.AssemblyReference.cache
+D:\Phase-2_Assisted projects\project1\Web Form Life Cycle\Web Form Life Cycle\obj\Debug\Web Form Life Cycle.csproj.CoreCompileInputs.cache
